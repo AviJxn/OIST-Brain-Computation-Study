@@ -9,8 +9,8 @@ This repository serves as a self-study companion to understand the **computation
 
 ##  Key Experiment: Q-Learning Convergence
 In `Reinforcement.ipynb`, I replicated the standard Q-learning agent on the Pain-Gain environment.
-* **Hypothesis:** The default learning rate ($\alpha=0.1$) resulted in slow initial convergence.
-* **Modification:** I increased the learning rate to **$\alpha=0.5$** to prioritize recent reward signals.
+* **Hypothesis:** The default learning rate **(α = 0.1)** resulted in slow initial convergence.
+* **Modification:** I increased the learning rate to **(α = 0.5)** to prioritize recent reward signals.
 * **Result:** The agent demonstrated significantly faster policy acquisition in the early training phase (visible in the final learning curve plot).
 
 ##  Contents
