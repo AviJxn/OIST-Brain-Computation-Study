@@ -16,5 +16,5 @@ In `Reinforcement.ipynb`, I implemented the Q-learning agent on the 'Pain-Gain' 
 ##  Contents
 * `Reinforcement.ipynb`: Implementation of value iteration, policy iteration, and dopamine-based reward prediction error models.
 
-## 🚀 Why this matters
+##  Why this matters
 As an aspiring contributor to **INCF**, I believe it is critical to understand not just the *infrastructure* (RAG, Search), but also the *science* (Neuroinformatics) that the infrastructure supports.
