@@ -17,4 +17,4 @@ In `Reinforcement.ipynb`, I replicated the standard Q-learning agent on the Pain
 * `Reinforcement.ipynb`: Implementation of value iteration, policy iteration, and dopamine-based reward prediction error models.
 
 ##  Why this matters
-As an open source contributor to **INCF(International Neuroinformatics Coordinating Facility)**, I believe it is critical to understand not just the *infrastructure* (RAG, Search), but also the *science* (Neuroinformatics) that the infrastructure supports.
+As an open source contributor to **INCF (International Neuroinformatics Coordinating Facility)**, I believe it is critical to understand not just the *infrastructure* (RAG, Search), but also the *science* (Neuroinformatics) that the infrastructure supports.
