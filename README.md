@@ -7,7 +7,7 @@ This repository serves as a self-study companion to understand the **computation
 * **Reinforcement Learning (RL):** How the brain learns from reward signals (Dopamine pathways).
 * **Scientific Computing:** Implementing algorithms directly from mathematical models using Python.
 
-## 📊 Experimental Results: Learning Rate Sensitivity
+##  Experimental Results: Learning Rate Sensitivity
 In `Reinforcement.ipynb`, I implemented a Q-learning agent on the 'Pain-Gain' MDP to investigate the impact of the learning rate ($\alpha$) on policy convergence.
 
 Following feedback from the **OIST Neural Computation Unit**, I validated the results over **10 random seeds** to ensure statistical significance.
