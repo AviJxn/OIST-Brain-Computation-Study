@@ -23,4 +23,4 @@ Following feedback from the **OIST Neural Computation Unit**, I validated the re
 * `convergence_benchmark.png`: Static visualization of the sensitivity analysis (Median + Quartiles).
 
 ## Why this matters
-As an open source contributor to **INCF** (International Neuroinformatics Coordinating Facility), I believe it is critical to understand not just the *infrastructure* (BIDS, NiiVue), but also the *computational theory* that these tools support.
+As an open source contributor to **INCF** (International Neuroinformatics Coordinating Facility), I believe it is critical to understand not just the *infrastructure* (BIDS, NiiVue, ACES) but also the *computational theory* that these tools support.
