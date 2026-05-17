@@ -21,6 +21,3 @@ Following feedback from the **OIST Neural Computation Unit**, I validated the re
 ## Contents
 * `Reinforcement.ipynb`: Implementation of value iteration, policy iteration, and dopamine-based reward prediction error models.
 * `convergence_benchmark.png`: Static visualization of the sensitivity analysis (Median + Quartiles).
-
-## Why this matters
-As an open source contributor to **INCF** (International Neuroinformatics Coordinating Facility), I believe it is critical to understand not just the *infrastructure* (NiiVue, ACES) but also the *computational theory* that these tools support.
